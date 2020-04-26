@@ -1,0 +1,4 @@
+/home/anton/Downloads/CLion-2020.1/clion-2020.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/anton/C-based-Archiver
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/anton/C-based-Archiver/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/C_based_Archiver.dir/main.c.o  -o C_based_Archiver 
