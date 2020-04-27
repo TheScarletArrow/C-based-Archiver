@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anton/C-based-Archiver/libs.h
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+dirent.h
+-
+string.h
+-
+fcntl.h
+-
+ctype.h
+-
+
+/home/anton/C-based-Archiver/main.c
+libs.h
+/home/anton/C-based-Archiver/libs.h
+

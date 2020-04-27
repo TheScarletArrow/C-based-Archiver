@@ -14,6 +14,7 @@
 #include <string.h>
 #include <fcntl.h>
 #include <ctype.h>
+#include <getopt.h>
 
 #define LengthMax 256
 #define bufsize 1024
